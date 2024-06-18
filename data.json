@@ -1,0 +1,68 @@
+{
+    "ivn": [
+        {
+            "price": 15,
+            "date": "sept 14, 2021"
+        },
+        {
+            "price": 21,
+            "date": "march 21, 2022"
+        },
+        {
+            "price": 21,
+            "date": "march 25, 2022"
+        },
+        {
+            "price": 46,
+            "date": "feb 9, 2022"
+        },
+        {
+            "price": 7.17,
+            "date": "feb 9, 2022"
+        },
+        {
+            "price": 33,
+            "date": "march 15, 2022"
+        }
+    ],
+    "david": [
+        {
+            "price": 15,
+            "date": "sept 17, 2021"
+        },
+        {
+            "price": 55,
+            "date": "feb 11, 2022"
+        },
+        {
+            "price": 25,
+            "date": "may 15, 2024"
+        }
+    ],
+    "kent": [
+        {
+          "price": 32,
+          "date": "feb 15, 2022"
+        },
+        {
+          "price": 32,
+          "date": "june 15, 2022"
+        },
+        {
+          "price": 32,
+          "date": "nov 4, 2022"
+        },
+        {
+          "price": 32,
+          "date": "march 15, 2023"
+        },
+        {
+          "price": 32,
+          "date": "june 10, 2023"
+        },
+        {
+            "price": 32,
+            "date": "march 8, 2024"
+          }
+    ]
+}
